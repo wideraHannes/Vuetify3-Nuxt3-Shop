@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+## Live Preview
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<button><a href="vuetify3-nuxt3-shop.vercel.app" target="_blank">Live Preview</a><button>
 
 ## Setup
 
@@ -24,20 +24,3 @@ Start the development server on http://localhost:3000
 ```bash
 npm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# Vuetify3-Nuxt3-Shop
