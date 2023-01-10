@@ -1,6 +1,6 @@
 ## Live Preview
 
-<button><a href="vuetify3-nuxt3-shop.vercel.app" target="_blank">Live Preview</a><button>
+<button><a href="https://vuetify3-nuxt3-shop.vercel.app/" target="_blank">Live Preview</a><button>
 
 ## Setup
 
